@@ -33,6 +33,12 @@ This project covers the complete lifecycle of an IT support management system, f
 - Microsoft Excel — Gantt chart construction and project scheduling
 
 ---
+## Proof/Screenshots
+<img width="764" height="665" alt="Screenshot 2026-03-28 225618" src="https://github.com/user-attachments/assets/8daaaf51-bfe2-4de2-8855-01fa050a388d" />
+<img width="709" height="337" alt="Screenshot 2026-03-28 225550" src="https://github.com/user-attachments/assets/d53669f8-40a6-49aa-8631-84489b4d64b9" />
+<img width="352" height="468" alt="Screenshot 2026-03-28 225532" src="https://github.com/user-attachments/assets/c50ce8ed-9d4e-4d79-ba04-2842dc9d3753" />
+<img width="351" height="468" alt="Screenshot 2026-03-28 225520" src="https://github.com/user-attachments/assets/3bf7f9ca-b67c-4907-97db-4be897dfee37" />
+
 
 ## Repository Structure
 
